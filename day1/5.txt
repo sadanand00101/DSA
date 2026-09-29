@@ -1,0 +1,22 @@
+RAM (bag)
+n = input 
+o(1) constant 
+
+o(n) 10*10
+
+space : how much extra space/memory => Memory (Ram) used
+
+Time: How much work/time => work done 
+
+6 rows 6 boxes in each row 
+
+1 1 1 1 1 
+1 1 1 1 1 
+1 1 1 1 1 
+1 1 1 1 1 
+1 1 1 1 1 
+
+
+
+
+

@@ -1,0 +1,11 @@
+print largest number from 2 num
+1.question understand
+2.sum result
+3.input
+4.output
+5.simple steps in my own 
+6.algorithm
+7.pseduo code
+8.test cases 
+9.code 
+10.debug 

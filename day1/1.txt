@@ -1,0 +1,19 @@
+find the largest num in array [2,5,4]
+
+largest number = 1 variable 
+patterns 
+steps:
+1. highest = 2
+2. 2 with 5  if num1<num2 replace 
+3. 5 with 4  if num1<num2 replace 
+4. 5 remains 5 is largest 
+5. print 5 
+
+time complexity 
+for i in range(n):
+    for j in range(n):              2   0,1 00 01 10 11 O(n^2)
+        print(i,j) n=5 
+
+definition:exam 
+simple definition:
+
